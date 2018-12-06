@@ -1,0 +1,33 @@
+body
+{
+    background: #FDFCFC;
+}
+
+.container
+{
+    max-width: 500px;
+    padding-top: 40px;
+    
+}
+.card-title
+{
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.collection
+.collection-item
+{
+    background:#FDFCFC;
+}
+
+.fa
+{
+    color:#2E2E2E;
+
+}
+
+.fa:hover{
+    color:darkgray;
+}
